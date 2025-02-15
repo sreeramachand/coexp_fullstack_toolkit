@@ -1,0 +1,9 @@
+.centered-primary-div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.txt-area1 {
+  min-height: 100px;
+}
