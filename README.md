@@ -17,3 +17,5 @@ npm run dev
 
 
 Now, enjoy!
+
+License is BSD-1-clause, meaning please cite but use freely. 
