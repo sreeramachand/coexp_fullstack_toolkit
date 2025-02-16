@@ -1,20 +1,30 @@
 Dependencies:
 
-After creating and activing a .venv, enter the following commands into the backend folder
+Enter the following commands:
 
-pip install flask flask_cors pandas networkx scipy spacy transformers pyxlsb
+>>> git clone https://github.com/sreeramachand/coexp_fullstack_toolkit.git
 
-python -m spacy download en_core_web_sm
+>>> python -m venv .venv
 
-flask run 
+>>> .venv/scripts/activate
 
-In the frontend, enter this:
+>>> pip install flask flask_cors pandas networkx scipy spacy transformers pyxlsb
 
-npm install
+>>> python -m spacy download en_core_web_sm
 
-npm run dev
+>>> cd coexp_fullstack/backend
 
+>>> flask run 
 
+>>> cd ..
+
+>>> cd frontend
+
+>>> npm install
+
+>>> npm run dev
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
 
 Now, enjoy!
 
