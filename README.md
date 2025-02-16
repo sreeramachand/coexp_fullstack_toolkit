@@ -12,7 +12,7 @@ Enter the following commands:
 
 >>> python -m spacy download en_core_web_sm
 
->>> cd coexp_fullstack/backend
+>>> cd coexp_fullstack_toolkit/backend
 
 >>> flask run 
 
