@@ -16,9 +16,9 @@ Enter the following commands:
 
 >>> flask run 
 
->>> cd ..
+NEW TERMINAL
 
->>> cd frontend
+>>> cd coexp_fullstack_toolkit/frontend
 
 >>> npm install
 
